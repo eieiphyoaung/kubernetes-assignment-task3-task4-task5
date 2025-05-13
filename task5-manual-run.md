@@ -1,7 +1,7 @@
 # jfrog artifactory
 
 docker login -ueieiphyo.ycc@gmail.com trialvzqg22.jfrog.io
-cmVmdGtuOjAxOjE3Nzg1MTI4ODI6Qlp4Z2Vpa2d4THdnSGFSQUdMTGl0aHU4THdl
+password
 
 docker pull trialvzqg22.jfrog.io/eep-productpage-docker/hello-world:latest
 
