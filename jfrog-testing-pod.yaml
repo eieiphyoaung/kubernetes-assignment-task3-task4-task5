@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: details-jfrog
+spec:
+  imagePullSecrets:
+  - name: jfrog-secret
+  containers:
+  - name: details-jfrog
+    image: trialvzqg22.jfrog.io/eep-bookinfo-docker-local/bookinfo-productpage-v1:1.20.3
